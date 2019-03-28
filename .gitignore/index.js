@@ -62,17 +62,6 @@ Client.on('message', message =>{
         console.log('repond a rgolez');
     }
 });
-Client.on('message', message =>{
-    if(message.content === "15728723687415687985616"){
-        message.channel.sendMessage('spam activé');
-        console.log('repond a rgolez');
-    }
-});
-Client.on('message', message =>{
-    if(message.content === "spam activé"){
-        message.channel.sendMessage('spam activé');
-        console.log('repond a rgolez');
-    }
-});
+
 
 
