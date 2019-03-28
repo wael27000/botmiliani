@@ -5,7 +5,7 @@ const prefix = "m!"
 Client.login('NTU2NTc3NTc0MTg5MjY5MDE2.D3Vdyg.lnyE1_jDAQrIrGvZCxZA0so2nZc');
 Client.on("ready", () =>{
     console.log("je suis prêt")
-    Client.user.setGame("etre dévelloppé")});
+    Client.user.setGame("aidez Mr")});
 
 //Comandes de bases
 Client.on('message', message =>{
